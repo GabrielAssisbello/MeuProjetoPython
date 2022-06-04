@@ -1,9 +1,9 @@
 print("Alô Mundo")
-print("Linha 2")
-print("Henrique Poyatos")
+print("Linha 6")
+print("Gabriel")
 print("quarta linha")
-print("Nova linha")
 
-valor=10
+
+valor = 10
 if valor <= 10:
-	print("Teste")
+    print("Teste")
